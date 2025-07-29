@@ -9,10 +9,10 @@ while (number < 10) {
 // Another While of message print
 let messageNum=0;
 
-while(messageNum<=60){
+while(messageNum<=500){
     messageNum++
     console.log(
-      "I will invest at least 6 hrs every single day for next 60 days!"
+      "jihad continue studing until 4 am!"
     );
 }
 
