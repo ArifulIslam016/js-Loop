@@ -12,6 +12,18 @@ var sum = 0;
 //    sum+=i
 //    console.log("This is the sum or previous even numbers",sum)
 // }
+
+
+
+
+
+
+// for(let i=0;i<=10;i++){
+//     console.log(i)
+//    sum+=i
+// }
+// console.log("This the sum:",sum)
+
 for(let i=1;i<60;i+=2){
     console.log("This is Odd number:",i)
     sum+=i
